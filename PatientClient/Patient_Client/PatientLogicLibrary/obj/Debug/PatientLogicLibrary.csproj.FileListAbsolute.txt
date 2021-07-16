@@ -1,0 +1,6 @@
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\bin\Debug\PatientLogicLibrary.dll
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\bin\Debug\PatientLogicLibrary.pdb
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\obj\Debug\PatientLogicLibrary.csprojAssemblyReference.cache
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\obj\Debug\PatientLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\obj\Debug\PatientLogicLibrary.dll
+C:\Users\Pavav\source\repos\Patient_Client\PatientLogicLibrary\obj\Debug\PatientLogicLibrary.pdb

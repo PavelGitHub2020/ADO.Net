@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patient_Client", "Patient_Client\Patient_Client.csproj", "{47F31097-6430-4B83-A409-6916E7C47E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientLogicLibrary", "PatientLogicLibrary\PatientLogicLibrary.csproj", "{43A8D267-32F0-4BDB-A5F9-41C6683BF2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F31097-6430-4B83-A409-6916E7C47E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F31097-6430-4B83-A409-6916E7C47E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F31097-6430-4B83-A409-6916E7C47E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F31097-6430-4B83-A409-6916E7C47E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A8D267-32F0-4BDB-A5F9-41C6683BF2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A8D267-32F0-4BDB-A5F9-41C6683BF2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A8D267-32F0-4BDB-A5F9-41C6683BF2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A8D267-32F0-4BDB-A5F9-41C6683BF2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555BD099-4DCA-464C-A191-631C80134DEA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+B:\учебный проект\для примеров\C#Lessons\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

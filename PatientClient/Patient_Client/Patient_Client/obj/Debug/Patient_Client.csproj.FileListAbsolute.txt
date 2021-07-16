@@ -1,0 +1,14 @@
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\bin\Debug\Patient_Client.exe.config
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\bin\Debug\Patient_Client.exe
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\bin\Debug\Patient_Client.pdb
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\bin\Debug\PatientLogicLibrary.dll
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\bin\Debug\PatientLogicLibrary.pdb
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.csprojAssemblyReference.cache
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.Form1.resources
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.Properties.Resources.resources
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.csproj.GenerateResource.cache
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.csproj.CoreCompileInputs.cache
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.csproj.CopyComplete
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.exe
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.pdb
+C:\Users\Pavav\source\repos\Patient_Client\Patient_Client\obj\Debug\Patient_Client.EditForm.resources
